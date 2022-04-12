@@ -14,14 +14,14 @@ MySql ou outro banco de dados relacional```
 
 ### 🔧 Instalação
 
-Clone o repositório
-Crie o banco de dados telzir
-Rode os comandos:
-    - composer install (instala as dependências do projeto)
-    - insira as informações do banco de dados no arquivo .env
-    - php artisan migrate --seed (para criar as tabelas e inserir os dados iniciais)
-    - php artisan serve (para subir o servidor interno do PHP)
-    - acesse o caminho indicado após a subida do servidor (ex.: http://localhost:8000)
+### Clone o repositório
+### Crie o banco de dados telzir
+### Rode os comandos:
+    ###- composer install (instala as dependências do projeto)
+    ###- insira as informações do banco de dados no arquivo .env
+    ###- php artisan migrate --seed (para criar as tabelas e inserir os dados iniciais)
+    ######- php artisan serve (para subir o servidor interno do PHP)
+    ###- acesse o caminho indicado após a subida do servidor (ex.: http://localhost:8000)
 
 ## ✒️ Autores
 
